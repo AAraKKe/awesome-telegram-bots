@@ -150,6 +150,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 - [Jellyfin Telegram Channel Sync](https://github.com/GeiserX/jellyfin-telegram-channel-sync) - Syncs Jellyfin user access with Telegram channel membership, automatically disabling accounts when members leave.
 - [VideoDownloaderBot](https://github.com/Avazbek22/VideoDownloaderBot) - Self-hosted Telegram media downloader with video, original file, and MP3 delivery, plus Docker deployment and rollback.
 - [LinkDownloaderBotForGroups](https://github.com/Avazbek22/LinkDownloaderBotForGroups) - Self-hosted Telegram group bot that turns shared video links into native posts with media reuse and automatic updates.
+- [Watch Satellite TV](https://github.com/watch-satellite-tv/watch-satellite-tv) - Free open-source Telegram bot streaming 20,000+ live TV channels from 185+ countries.
 
 ## Group Management
 
